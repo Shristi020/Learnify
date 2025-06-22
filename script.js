@@ -1,7 +1,7 @@
 // script.js//
 import { common } from "./data/common.js";
 import { cse } from './data/cse.js';
-import { it } from './data/It.js';
+import { it } from './data/it.js';
 import { ece } from './data/ece.js';
 import { ee } from './data/ee.js';
 import { ce } from './data/ce.js';
