@@ -15,7 +15,7 @@ export const ece = {
       title: "Physics-I Notes",
       type: "PDF",
       link: "https://drive.google.com/drive/folders/11JSIgnaufAyZK-IeitK3eBg3D1vDhnGO?usp=drive_link"
-    },
+    }
   ], 
 
   "2": [
@@ -43,7 +43,7 @@ export const ece = {
       title: "Physics",
       type: "PDF",
       link: "https://drive.google.com/drive/folders/10cud7v6S4IWIvJS_X-HiyjPBLxldAwm-?usp=drive_link"
-    },
+    }
   ],
    
 
